@@ -1,9 +1,10 @@
 int main()
 {
   int i;
-  for (i = 0; i < 10; i++)
-  {
-    printf("School\n");
+  for (i = 0; i < 32; i++)
+  {printf("Holberton\n");
+    printf("HelloSchool\n");
   }
   return 0;
 }
+Footer('Goholberton')
